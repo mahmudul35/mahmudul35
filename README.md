@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/mahmudul35/mahmudul35/blob/main/gitcover.png"  />
+  <img height="300" width="100%" src="https://github.com/mahmudul35/mahmudul35/blob/main/gitcover.png"  />
 </div>
 
 <!-- Welcome Text -->
