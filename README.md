@@ -4,7 +4,7 @@
 
 <!-- Welcome Text -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mahmudul+Hasan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Mahmudul+Hasan!;" />
   <h3 align="center">I'm a passionate MERN stack developer from Bangladesh.<br><br></h3>
 </h1>
 
@@ -35,7 +35,9 @@
 
 <h2 align="left">👋About Me</h2>
 <p>
-<p>I'm a passionate MERN Stack Developer with a strong interest in building scalable, user-centric web applications. My expertise lies in developing end-to-end solutions using MongoDB, Express.js, React, and Node.js, enabling me to craft seamless full-stack applications.</p>
+<!-- <p>I'm a passionate MERN Stack Developer with a strong interest in building scalable, user-centric web applications. My expertise lies in developing end-to-end solutions using MongoDB, Express.js, React, and Node.js, enabling me to craft seamless full-stack applications.</p> -->
+<p>Hi there! I’m <strong>Mahmudul Hasan</strong>, a passionate <strong>MERN Stack Developer</strong> with a strong interest in building scalable web applications.  
+    🚀 I love solving real-world problems through code and continuously learning new technologies.</p>
 
 🔧 Technologies I Work With:<br/>
 Frontend: React.js, Redux, Tailwind CSS, Bootstrap<br/>
