@@ -36,7 +36,7 @@
 <h2 align="left">👋About Me</h2>
 <p>
 <!-- <p>I'm a passionate MERN Stack Developer with a strong interest in building scalable, user-centric web applications. My expertise lies in developing end-to-end solutions using MongoDB, Express.js, React, and Node.js, enabling me to craft seamless full-stack applications.</p> -->
-<p>Hi there! I’m <strong>Mahmudul Hasan</strong>, a passionate <strong>MERN Stack Developer</strong> with a strong interest in building scalable web applications.  
+<p>Hi there! I’m <strong>Mahmudul Hasan</strong>, a passionate <strong>MERN Stack Developer</strong> with a strong interest in building scalable web applications. <br> 
     🚀 I love solving real-world problems through code and continuously learning new technologies.</p>
 
 🔧 Technologies I Work With:<br/>
